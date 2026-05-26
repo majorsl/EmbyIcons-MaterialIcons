@@ -15,7 +15,12 @@ My main goals in creating them:
 
 # Installation
 
-The release contains all three versions. Put the folders in a location accessible to Emby/EmbyIcons and select a folder in the plug-in's preferences.
+The release contains all three versions.
+
+1. Click the Latest release here.
+2. Download the Source Code format of your choice (zip or tar.gz).
+3. Extract your download. Inside the Release directory, you'll find the MaterialIcons folder which has folders for each of the three themes.
+4. Put them location accessible to Emby/EmbyIcons and select which to use in the plug-in's preferences.
 
 # Issues and Troubleshooting
 
